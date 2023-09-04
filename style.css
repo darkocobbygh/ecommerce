@@ -401,9 +401,3 @@ height: 300px;
     flex-direction: column;
 }
 }
-
-@media only screen and (min-width: 768px) {
-   .header{
-    display: none;
-   }
-  }
